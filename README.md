@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+## api=> https://phi-lab-server.vercel.app/api/v1/lab/foods
+
 First, run the development server:
 
 ```bash
